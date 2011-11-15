@@ -4,8 +4,11 @@
 = Details =
 
 1. Copy the APK file to your Android’s memory card and insert the card into your phone.
+
 2. Download and install the Apps Installer application from the Android Market
+
 3. Once installed, the Apps Installer will display the APK files on the memory card.
+
 4. Click and install your APK files.
 
 *OR*
